@@ -1,7 +1,7 @@
 name: chatgpt_keyboard_view
-description: "Description here"
+description: "ChatGPT Keyboard View by June"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/chatgpt_keyboard_view
 
 version: 1.0.0+1
 
